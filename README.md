@@ -7,6 +7,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Array
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -28,4 +30,8 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
