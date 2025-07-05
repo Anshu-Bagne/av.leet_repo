@@ -25,6 +25,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -34,4 +35,12 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
