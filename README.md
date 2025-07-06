@@ -21,6 +21,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -28,6 +29,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -49,4 +51,8 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
