@@ -7,6 +7,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Array
 |  |
 | ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3643-zero-array-transformation-ii) |
@@ -43,6 +44,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
 ## Recursion
 |  |
 | ------- |
@@ -55,4 +57,13 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
