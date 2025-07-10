@@ -15,6 +15,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2915-count-of-interesting-subarrays) |
 | [3643-zero-array-transformation-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3643-zero-array-transformation-ii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Anshu-Bagne/MedGuard/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
@@ -92,4 +94,8 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Anshu-Bagne/MedGuard/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
