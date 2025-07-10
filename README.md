@@ -13,6 +13,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2915-count-of-interesting-subarrays) |
 | [3643-zero-array-transformation-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3643-zero-array-transformation-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -34,6 +35,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2915-count-of-interesting-subarrays) |
 ## String
 |  |
@@ -45,6 +47,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
