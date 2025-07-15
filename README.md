@@ -46,6 +46,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3396-valid-word](https://github.com/Anshu-Bagne/MedGuard/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
 | ------- |
