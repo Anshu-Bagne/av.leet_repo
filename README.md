@@ -14,6 +14,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Anshu-Bagne/MedGuard/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -41,6 +42,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2915-count-of-interesting-subarrays) |
@@ -51,6 +53,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshu-Bagne/MedGuard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/Anshu-Bagne/MedGuard/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
@@ -147,4 +150,9 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshu-Bagne/MedGuard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
