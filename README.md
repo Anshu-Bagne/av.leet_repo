@@ -80,6 +80,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
+| [2050-count-good-numbers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2050-count-good-numbers) |
 ## Design
 |  |
 | ------- |
@@ -143,6 +144,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshu-Bagne/MedGuard/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2050-count-good-numbers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
