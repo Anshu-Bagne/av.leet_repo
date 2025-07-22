@@ -12,6 +12,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Anshu-Bagne/MedGuard/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/Anshu-Bagne/MedGuard/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -41,6 +42,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/Anshu-Bagne/MedGuard/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
@@ -60,6 +62,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/Anshu-Bagne/MedGuard/tree/master/1813-maximum-erasure-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
