@@ -17,6 +17,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Anshu-Bagne/MedGuard/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshu-Bagne/MedGuard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -99,6 +100,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshu-Bagne/MedGuard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Bitmask
 |  |
 | ------- |
@@ -154,6 +156,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshu-Bagne/MedGuard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshu-Bagne/MedGuard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -167,4 +170,8 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Anshu-Bagne/MedGuard/tree/master/1818-maximum-score-from-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshu-Bagne/MedGuard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
