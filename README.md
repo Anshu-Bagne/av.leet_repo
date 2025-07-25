@@ -27,6 +27,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [3643-zero-array-transformation-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3643-zero-array-transformation-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Anshu-Bagne/MedGuard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2915-count-of-interesting-subarrays) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Anshu-Bagne/MedGuard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Anshu-Bagne/MedGuard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
