@@ -23,6 +23,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Anshu-Bagne/MedGuard/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anshu-Bagne/MedGuard/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2915-count-of-interesting-subarrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -113,6 +114,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshu-Bagne/MedGuard/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshu-Bagne/MedGuard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Anshu-Bagne/MedGuard/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anshu-Bagne/MedGuard/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bitmask
 |  |
 | ------- |
@@ -193,4 +195,8 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Anshu-Bagne/MedGuard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anshu-Bagne/MedGuard/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
