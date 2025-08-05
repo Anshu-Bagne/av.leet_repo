@@ -37,6 +37,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Anshu-Bagne/MedGuard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Anshu-Bagne/MedGuard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Anshu-Bagne/MedGuard/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Anshu-Bagne/MedGuard/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3643-zero-array-transformation-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +171,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,8 +211,13 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Anshu-Bagne/MedGuard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anshu-Bagne/MedGuard/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
