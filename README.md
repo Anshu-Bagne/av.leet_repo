@@ -34,6 +34,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3643-zero-array-transformation-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anshu-Bagne/MedGuard/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Anshu-Bagne/MedGuard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -108,6 +109,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Anshu-Bagne/MedGuard/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anshu-Bagne/MedGuard/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Recursion
 |  |
 | ------- |
@@ -227,4 +229,8 @@ it also stores the medication timer of patient and alaars according to it.
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3791-fruits-into-baskets-iii) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anshu-Bagne/MedGuard/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
