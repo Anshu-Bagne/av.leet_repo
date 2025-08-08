@@ -102,6 +102,7 @@ it also stores the medication timer of patient and alaars according to it.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/Anshu-Bagne/MedGuard/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -190,6 +191,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshu-Bagne/MedGuard/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
@@ -233,4 +235,8 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anshu-Bagne/MedGuard/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
