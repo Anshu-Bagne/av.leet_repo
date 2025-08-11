@@ -63,6 +63,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Anshu-Bagne/MedGuard/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -98,6 +99,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -159,6 +161,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/0047-permutations-ii) |
+| [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Anshu-Bagne/MedGuard/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
@@ -173,6 +176,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshu-Bagne/MedGuard/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Anshu-Bagne/MedGuard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -198,6 +202,7 @@ it also stores the medication timer of patient and alaars according to it.
 | ------- |
 | [0231-power-of-two](https://github.com/Anshu-Bagne/MedGuard/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshu-Bagne/MedGuard/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
