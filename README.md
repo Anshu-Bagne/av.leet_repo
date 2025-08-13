@@ -121,6 +121,7 @@ it also stores the medication timer of patient and alaars according to it.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/Anshu-Bagne/MedGuard/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Anshu-Bagne/MedGuard/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2050-count-good-numbers) |
 ## Design
 |  |
@@ -202,6 +203,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anshu-Bagne/MedGuard/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Anshu-Bagne/MedGuard/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshu-Bagne/MedGuard/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
