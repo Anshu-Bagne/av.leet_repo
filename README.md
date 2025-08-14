@@ -85,6 +85,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Anshu-Bagne/MedGuard/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Anshu-Bagne/MedGuard/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/Anshu-Bagne/MedGuard/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
