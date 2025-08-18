@@ -91,6 +91,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Anshu-Bagne/MedGuard/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Anshu-Bagne/MedGuard/tree/master/1813-maximum-erasure-value) |
@@ -109,6 +110,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/Anshu-Bagne/MedGuard/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -213,6 +215,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0342-power-of-four](https://github.com/Anshu-Bagne/MedGuard/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshu-Bagne/MedGuard/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/1448-maximum-69-number) |
@@ -262,4 +265,5 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
