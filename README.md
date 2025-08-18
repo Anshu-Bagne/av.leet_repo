@@ -9,6 +9,7 @@ it also stores the medication timer of patient and alaars according to it.
 | ------- |
 | [0047-permutations-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/0047-permutations-ii) |
 | [0118-pascals-triangle](https://github.com/Anshu-Bagne/MedGuard/tree/master/0118-pascals-triangle) |
+| [0679-24-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Anshu-Bagne/MedGuard/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshu-Bagne/MedGuard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -134,6 +135,7 @@ it also stores the medication timer of patient and alaars according to it.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/0047-permutations-ii) |
+| [0679-24-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0679-24-game) |
 | [1418-fair-distribution-of-cookies](https://github.com/Anshu-Bagne/MedGuard/tree/master/1418-fair-distribution-of-cookies) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshu-Bagne/MedGuard/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -209,6 +211,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0231-power-of-two](https://github.com/Anshu-Bagne/MedGuard/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anshu-Bagne/MedGuard/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anshu-Bagne/MedGuard/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshu-Bagne/MedGuard/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
