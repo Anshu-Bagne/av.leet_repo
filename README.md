@@ -86,6 +86,7 @@ it also stores the medication timer of patient and alaars according to it.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/Anshu-Bagne/MedGuard/tree/master/0058-length-of-last-word) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anshu-Bagne/MedGuard/tree/master/0166-fraction-to-recurring-decimal) |
 | [0443-string-compression](https://github.com/Anshu-Bagne/MedGuard/tree/master/0443-string-compression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anshu-Bagne/MedGuard/tree/master/1302-delete-characters-to-make-fancy-string) |
