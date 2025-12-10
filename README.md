@@ -8,6 +8,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Anshu-Bagne/MedGuard/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Anshu-Bagne/MedGuard/tree/master/0118-pascals-triangle) |
 | [0679-24-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -117,6 +118,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anshu-Bagne/MedGuard/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Anshu-Bagne/MedGuard/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Anshu-Bagne/MedGuard/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0867-new-21-game) |
@@ -288,4 +290,8 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Anshu-Bagne/MedGuard/tree/master/1628-count-submatrices-with-all-ones) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Anshu-Bagne/MedGuard/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
