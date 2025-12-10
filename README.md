@@ -10,6 +10,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0047-permutations-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Anshu-Bagne/MedGuard/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Anshu-Bagne/MedGuard/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Anshu-Bagne/MedGuard/tree/master/0169-majority-element) |
 | [0679-24-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Anshu-Bagne/MedGuard/tree/master/0940-fruit-into-baskets) |
@@ -70,6 +71,7 @@ it also stores the medication timer of patient and alaars according to it.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anshu-Bagne/MedGuard/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/Anshu-Bagne/MedGuard/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Anshu-Bagne/MedGuard/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -112,6 +114,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anshu-Bagne/MedGuard/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
@@ -185,6 +188,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/Anshu-Bagne/MedGuard/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Anshu-Bagne/MedGuard/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -294,4 +298,5 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anshu-Bagne/MedGuard/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anshu-Bagne/MedGuard/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
