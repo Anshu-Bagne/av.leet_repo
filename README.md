@@ -8,6 +8,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Anshu-Bagne/MedGuard/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anshu-Bagne/MedGuard/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Anshu-Bagne/MedGuard/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Anshu-Bagne/MedGuard/tree/master/0169-majority-element) |
@@ -231,6 +232,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anshu-Bagne/MedGuard/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anshu-Bagne/MedGuard/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Anshu-Bagne/MedGuard/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anshu-Bagne/MedGuard/tree/master/0326-power-of-three) |
@@ -284,6 +286,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anshu-Bagne/MedGuard/tree/master/0048-rotate-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anshu-Bagne/MedGuard/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Anshu-Bagne/MedGuard/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
