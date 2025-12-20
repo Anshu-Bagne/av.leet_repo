@@ -10,6 +10,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0047-permutations-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Anshu-Bagne/MedGuard/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anshu-Bagne/MedGuard/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Anshu-Bagne/MedGuard/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Anshu-Bagne/MedGuard/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Anshu-Bagne/MedGuard/tree/master/0169-majority-element) |
 | [0679-24-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0679-24-game) |
@@ -218,6 +219,7 @@ it also stores the medication timer of patient and alaars according to it.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Anshu-Bagne/MedGuard/tree/master/0054-spiral-matrix) |
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
@@ -287,6 +289,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anshu-Bagne/MedGuard/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Anshu-Bagne/MedGuard/tree/master/0054-spiral-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anshu-Bagne/MedGuard/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Anshu-Bagne/MedGuard/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
