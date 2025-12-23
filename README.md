@@ -26,6 +26,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1813-maximum-erasure-value](https://github.com/Anshu-Bagne/MedGuard/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Anshu-Bagne/MedGuard/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2054-two-best-non-overlapping-events](https://github.com/Anshu-Bagne/MedGuard/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Anshu-Bagne/MedGuard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anshu-Bagne/MedGuard/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshu-Bagne/MedGuard/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -56,6 +57,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Anshu-Bagne/MedGuard/tree/master/2054-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Anshu-Bagne/MedGuard/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Anshu-Bagne/MedGuard/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3643-zero-array-transformation-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3643-zero-array-transformation-ii) |
@@ -135,6 +137,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [1628-count-submatrices-with-all-ones](https://github.com/Anshu-Bagne/MedGuard/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Anshu-Bagne/MedGuard/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/Anshu-Bagne/MedGuard/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anshu-Bagne/MedGuard/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Anshu-Bagne/MedGuard/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -196,6 +199,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Anshu-Bagne/MedGuard/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Anshu-Bagne/MedGuard/tree/master/2054-two-best-non-overlapping-events) |
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Anshu-Bagne/MedGuard/tree/master/2689-rearranging-fruits) |
@@ -203,6 +207,7 @@ it also stores the medication timer of patient and alaars according to it.
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Anshu-Bagne/MedGuard/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2054-two-best-non-overlapping-events](https://github.com/Anshu-Bagne/MedGuard/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Anshu-Bagne/MedGuard/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
 ## Enumeration
