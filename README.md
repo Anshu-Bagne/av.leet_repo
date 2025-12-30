@@ -14,6 +14,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0118-pascals-triangle](https://github.com/Anshu-Bagne/MedGuard/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Anshu-Bagne/MedGuard/tree/master/0169-majority-element) |
 | [0679-24-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0679-24-game) |
+| [0840-magic-squares-in-grid](https://github.com/Anshu-Bagne/MedGuard/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Anshu-Bagne/MedGuard/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshu-Bagne/MedGuard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -77,6 +78,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshu-Bagne/MedGuard/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anshu-Bagne/MedGuard/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Anshu-Bagne/MedGuard/tree/master/0169-majority-element) |
+| [0840-magic-squares-in-grid](https://github.com/Anshu-Bagne/MedGuard/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Anshu-Bagne/MedGuard/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshu-Bagne/MedGuard/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +248,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [0342-power-of-four](https://github.com/Anshu-Bagne/MedGuard/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Anshu-Bagne/MedGuard/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/Anshu-Bagne/MedGuard/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Anshu-Bagne/MedGuard/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Anshu-Bagne/MedGuard/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshu-Bagne/MedGuard/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -295,6 +298,7 @@ it also stores the medication timer of patient and alaars according to it.
 | ------- |
 | [0048-rotate-image](https://github.com/Anshu-Bagne/MedGuard/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anshu-Bagne/MedGuard/tree/master/0054-spiral-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Anshu-Bagne/MedGuard/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anshu-Bagne/MedGuard/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Anshu-Bagne/MedGuard/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
