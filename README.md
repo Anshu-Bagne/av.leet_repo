@@ -47,6 +47,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Anshu-Bagne/MedGuard/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Anshu-Bagne/MedGuard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -118,6 +119,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Anshu-Bagne/MedGuard/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Anshu-Bagne/MedGuard/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Anshu-Bagne/MedGuard/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Anshu-Bagne/MedGuard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
@@ -206,6 +208,7 @@ it also stores the medication timer of patient and alaars according to it.
 | [2479-meeting-rooms-iii](https://github.com/Anshu-Bagne/MedGuard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anshu-Bagne/MedGuard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Anshu-Bagne/MedGuard/tree/master/2689-rearranging-fruits) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Anshu-Bagne/MedGuard/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
